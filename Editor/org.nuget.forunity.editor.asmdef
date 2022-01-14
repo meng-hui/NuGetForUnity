@@ -1,3 +1,6 @@
 {
-	"name": "org.nuget.forunity.editor"
+	"name": "org.nuget.forunity.editor",
+	"includePlatforms": [
+        "Editor"
+    ]
 }
